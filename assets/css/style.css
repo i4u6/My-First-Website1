@@ -1,0 +1,33 @@
+body {
+    background: rgb(241, 248, 255);
+    color: #ce4141;
+    margin-top: 5rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #77c254;
+}
+
+p, li {
+    color: rgb(46, 23, 172);
+}
+
+ul {
+    margin: 0;
+}
+
+.bg-steel {
+    background-color: #aa2a75;
+}
+
+.site-header .navbar-nav .nav-link {
+    color:rgb(241, 248, 255);
+}
+
+.site-header .navbar-nav .nav-link:hover {
+    color:rgb(241, 248, 255);
+}
+
+.site-header .navbar-nav .nav-link.active {
+    font-weight: 500;
+}
